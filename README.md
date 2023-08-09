@@ -1,14 +1,21 @@
-# Expo Router Example
+![Screenshot](./assets/images/sc1.png)
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+# Plant React Native App
 
-## 🚀 How to use
+A simple react native app for plants.
 
-```sh
-npx create-expo-app -e with-router
+# Installation
+
+```bash
+npm i
 ```
 
-## 📝 Notes
+# Running
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+```bash
+npm start
+```
+
+# Enjoy
+
+Give it a star ⭐ if you 💝 it.
